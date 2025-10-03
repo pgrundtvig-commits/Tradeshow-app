@@ -5,8 +5,7 @@
   "scripts": {
     "dev": "vite --open",
     "build": "tsc -b && vite build",
-    "preview": "vite preview",
-    "icons": "node scripts/make-icons.mjs"
+    "preview": "vite preview"
   },
   "dependencies": {
     "html2canvas": "^1.4.1",
